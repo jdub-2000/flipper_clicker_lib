@@ -1,7 +1,7 @@
 # flipper_lib
-A collection of [Flipper Zero](https://flipperzero.one/) files that can be used to emulate signals of various types.
+A collection of [Flipper Zero](https://flipperzero.one/) files that can be used to emulate signals of various types.  These files can be loaded onto SD cards and used by Flipper devices.
 
-## File Structure
+## Directory Structure
 Files are organized into directories according to the modality they were captured in (e.g., `Sub-GHz`, `NFC`, etc.), the type of device, and the specific model.  
 
 For example:
@@ -13,9 +13,21 @@ For example:
         └── Model/Device
 ```
 
-Individual `sub` files ae named with the following convention:
+Individual files ae named with the following convention:
 
 
 ```
 <manufacturer name/abbreviation>_<type>_<model number or name>_<function>.sub
 ```
+
+## File Formats
+
+
+### `sub`
+
+
+### `ir`
+
+
+### `nfc`
+
