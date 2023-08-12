@@ -21,13 +21,5 @@ Individual files ae named with the following convention:
 ```
 
 ## File Formats
-
-
-### `sub`
-
-
-### `ir`
-
-
-### `nfc`
+The various `Flipper Zero` modalities require different file formats to generate signals(e.g.,`sub`, `ir`, `nfc`).
 
