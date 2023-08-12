@@ -12,3 +12,10 @@ For example:
     └── Type/
         └── Model/Device
 ```
+
+Individual `sub` files ae named with the following convention:
+
+
+```
+<manufacturer name/abbreviation>_<type>_<model number or name>_<function>.sub
+```
