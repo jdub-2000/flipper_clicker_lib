@@ -21,5 +21,9 @@ Individual files ae named with the following convention:
 ```
 
 ## File Formats
-The various `Flipper Zero` modalities require different file formats to generate signals(e.g.,`sub`, `ir`, `nfc`).
+The various `Flipper Zero` modalities require different file formats to generate signals, such as :
 
+- `.sub` files file `Sub-GHz`
+- `.ir` files or Infrared 
+
+among others.  A more comprehensive lis can be found [here](https://knowledgebase.beehive.systems/threats/hardware/flipper-zero/firmware/flipper-xtreme/wiki/subghz).
