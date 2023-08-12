@@ -26,4 +26,4 @@ The various `Flipper Zero` modalities require different file formats to generate
 - `.sub` files file `Sub-GHz`
 - `.ir` files or Infrared 
 
-among others.  A more comprehensive lis can be found [here](https://knowledgebase.beehive.systems/threats/hardware/flipper-zero/firmware/flipper-xtreme/wiki/subghz).
+among others.  A more comprehensive list can be found [here](https://knowledgebase.beehive.systems/threats/hardware/flipper-zero/firmware/flipper-xtreme/wiki/subghz).
