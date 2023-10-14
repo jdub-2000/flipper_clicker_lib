@@ -26,10 +26,17 @@ Individual files are named with the following convention:
 <manufacturer name/abbreviation>_<type>_<model number or name>_<function>.<extension>
 ```
 
-## File Formats
+## Files
+
+### Formats 
+
 The various `Flipper Zero` modalities require different file formats to generate signals, such as :
 
 - `.sub` files file `Sub-GHz`
 - `.ir` files or Infrared 
 
 among others.  A more comprehensive list of Flipper Zero related file formats can be found [here](https://knowledgebase.beehive.systems/threats/hardware/flipper-zero/firmware/flipper-xtreme/wiki/subghz).
+
+### Collection Method
+
+Unless otherwise specified, all data is generated from my Flipper Zero.  Some devices (like newer remote controls for TVs) have multiple modalities involved in their function (e.g., Bluetooth and IR); these are recorded individually if possible.  
