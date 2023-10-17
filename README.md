@@ -1,7 +1,7 @@
 # flipper_clicker_lib
 A collection of [Flipper Zero](https://flipperzero.one/) files that can be used to emulate signals of various types.  These files can be loaded onto SD cards and used by Flipper devices.
 
-*Note: This repository is just beginning, pardon our dust ;)*
+*Note: This repository is just beginning, pardon our dust as we add additional resources ;)*
 
 ## Purpose
 I lose and break remotes all the time, so this is primarily a means for me to store the data needed to emulate these devices as backups for using the things I own; if this data can help other folks have fun or keep stuff out of landfills that would be cool too! 
